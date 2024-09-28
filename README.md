@@ -15,4 +15,3 @@ Live show booking system is a system in which we can book seats of a live show a
 3. After entering the row and column of a seat, the seats will be booked.
 4. The seat matrix will show 1 for booked seat, 0 for available seat.
 5. You can also cancel the seat by entering the row and column of a seat.
-
